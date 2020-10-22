@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0hzJ/6MWHa+2mxT5LgzJP4b0GMgARKJZVwmlvprqjtW50FMlzLgPf3UbrWLmsb4mcWouWHudNLJUJDwSWDBgXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vimal\\Desktop\\C# new hands-on\\Moq -TDD-HandsOn\\devopsdemoapi\\devopsdemoapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vimal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
